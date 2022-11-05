@@ -1,2 +1,2 @@
 # Images
-images for project personal
+images for personal project
